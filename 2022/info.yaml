@@ -30,3 +30,13 @@
       files:
         - 06_bust.jpg
         - 06_full_body.jpg
+    - date: 7
+      coordinates:
+        brand: Baby
+        primary_name: Sweet Best Wishes
+        secondary_name: null
+        type: JSK
+        color: 黑
+      files:
+        - 07_bust.jpg
+        - 07_full_body.jpg
