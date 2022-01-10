@@ -4,7 +4,6 @@
       coordinates:
         brand: Baby
         primary_name: Sweet Best Wishes
-        secondary_name: null
         type: JSK
         color: Sax
       files:
@@ -14,9 +13,9 @@
       coordinates:
         brand: Baby
         primary_name: Sweet Best Wishes
-        secondary_name: null
         type: JSK
-        color: 黑x白
+        color: 黑
+        color_2: 白
       files:
         - 05_bust.jpg
         - 05_full_body.jpg
@@ -24,7 +23,6 @@
       coordinates:
         brand: Baby
         primary_name: Sweet Best Wishes
-        secondary_name: null
         type: JSK
         color: 粉
       files:
@@ -34,9 +32,21 @@
       coordinates:
         brand: Baby
         primary_name: Sweet Best Wishes
-        secondary_name: null
         type: JSK
         color: 黑
       files:
         - 07_bust.jpg
         - 07_full_body.jpg
+    - date: 10
+      coordinates:
+        brand: AH
+        primary_name: 云宝
+        secondary_name: Rainbow
+        type: JSK
+        color: 粉
+        color_2: Sax
+      files:
+        - 10_bust.jpg
+        - 10_full_body.jpg
+        - 10_close_up.jpg
+        - 10_still.jpg
