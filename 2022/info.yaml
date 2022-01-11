@@ -50,3 +50,15 @@
         - 10_full_body.jpg
         - 10_close_up.jpg
         - 10_still.jpg
+    - date: 11
+      coordinates:
+        brand: AH
+        primary_name: 天使&小恶魔
+        secondary_name: Angel&Devil
+        type_prefix: 小恶魔
+        type: JSK
+        color: 黑
+        color_2: 红
+      files:
+        - 11_bust.jpg
+        - 11_full_body.jpg
