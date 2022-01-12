@@ -62,3 +62,13 @@
       files:
         - 11_bust.jpg
         - 11_full_body.jpg
+    - date: 12
+      coordinates:
+        brand: AH
+        primary_name: 优雅小姐
+        secondary_name: Miss Grace
+        type: JSK
+        color: 白
+      files:
+        - 12_bust.jpg
+        - 12_full_body.jpg
