@@ -72,3 +72,14 @@
       files:
         - 12_bust.jpg
         - 12_full_body.jpg
+    - date: 13
+      coordinates:
+        brand: AH
+        primary_name: 云宝
+        secondary_name: Rainbow
+        type: JSK
+        color: 粉
+        color_2: 白
+      files:
+        - 13_bust.jpg
+        - 13_full_body.jpg
