@@ -83,3 +83,15 @@
       files:
         - 13_bust.jpg
         - 13_full_body.jpg
+    - date: 14
+      coordinates:
+        brand: AP
+        primary_name: 木马玫瑰
+        secondary_name: Belle Epoque Rose
+        type: Dress
+        color: 红
+      files:
+        - 14_bust.jpg
+        - 14_full_body.jpg
+        - 14_close_up.jpg
+        - 14_still.jpg
