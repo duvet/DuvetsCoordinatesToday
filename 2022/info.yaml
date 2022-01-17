@@ -95,3 +95,13 @@
         - 14_full_body.jpg
         - 14_close_up.jpg
         - 14_still.jpg
+    - date: 17
+      coordinates:
+        brand: AP
+        primary_name: 玫瑰信
+        secondary_name: Romantic Rose Letter
+        type: Dress
+        color: 粉
+      files:
+        - 17_bust.jpg
+        - 17_full_body.jpg
