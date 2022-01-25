@@ -135,4 +135,13 @@
       files:
         - 20_bust.jpg
         - 20_full_body.jpg
-
+    - date: 21
+      coordinates:
+        brand: AP
+        primary_name: 帷幕别珍
+        secondary_name: Aphrodite's
+        type: Dress
+        color: 生成
+      files:
+        - 21_bust.jpg
+        - 21_full_body.jpg
