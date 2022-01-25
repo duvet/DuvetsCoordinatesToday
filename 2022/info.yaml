@@ -145,3 +145,13 @@
       files:
         - 21_bust.jpg
         - 21_full_body.jpg
+    - date: 25
+      coordinates:
+        brand: AP
+        primary_name: 烛台吊灯
+        secondary_name: Chandelier Holic
+        type: Dress
+        color: Sax
+      files:
+        - 25_bust.jpg
+        - 25_full_body.jpg
