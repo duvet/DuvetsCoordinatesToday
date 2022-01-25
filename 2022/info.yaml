@@ -125,3 +125,14 @@
       files:
         - 19_bust.jpg
         - 19_full_body.jpg
+    - date: 20
+      coordinates:
+        brand: AP
+        primary_name: 沙龙玫瑰
+        secondary_name: Salon de thé Rose
+        type: Dress
+        color: Sax
+      files:
+        - 20_bust.jpg
+        - 20_full_body.jpg
+
