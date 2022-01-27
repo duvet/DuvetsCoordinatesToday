@@ -155,3 +155,14 @@
       files:
         - 25_bust.jpg
         - 25_full_body.jpg
+    - date: 26
+      coordinates:
+        brand: AP
+        primary_name: 甜点吊灯
+        secondary_name: Sweetie Chandelier
+        type: Dress
+        color: 生成
+      files:
+        - 26_bust.jpg
+        - 26_full_body.jpg
+
