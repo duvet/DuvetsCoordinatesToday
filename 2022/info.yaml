@@ -165,4 +165,13 @@
       files:
         - 26_bust.jpg
         - 26_full_body.jpg
-
+    - date: 27
+      coordinates:
+        brand: Baby
+        primary_name: 吊灯华尔兹
+        secondary_name: Princess Chandelier Waltz ~Ball of a Princess in Brightness~
+        type: JSK
+        color: Sax
+      files:
+        - 27_bust.jpg
+        - 27_full_body.jpg
