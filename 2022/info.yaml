@@ -175,3 +175,13 @@
       files:
         - 27_bust.jpg
         - 27_full_body.jpg
+    - date: 28
+      coordinates:
+        brand: AP
+        primary_name: 巴黎铁塔
+        secondary_name: Cameo Window
+        type: Dress
+        color: 生成
+      files:
+        - 28_bust.jpg
+        - 28_full_body.jpg
