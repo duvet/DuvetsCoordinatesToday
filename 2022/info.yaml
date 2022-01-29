@@ -185,3 +185,14 @@
       files:
         - 28_bust.jpg
         - 28_full_body.jpg
+    - date: 29
+      coordinates:
+        brand: AP
+        primary_name: 小鸟歌
+        secondary_name: Symphonia of Birds
+        type: Dress
+        color: 生成
+      files:
+        - 29_bust.jpg
+        - 29_full_body.jpg
+
