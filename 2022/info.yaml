@@ -195,4 +195,13 @@
       files:
         - 29_bust.jpg
         - 29_full_body.jpg
-
+    - date: 30
+      coordinates:
+        brand: OZZ
+        primary_name: 夏蔷薇
+        secondary_name: Rose Series
+        type: JSK
+        color: Sax
+      files:
+        - 30_bust.jpg
+        - 30_full_body.jpg
