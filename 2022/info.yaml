@@ -205,3 +205,15 @@
       files:
         - 30_bust.jpg
         - 30_full_body.jpg
+- month: 2
+  dates:
+    - date: 7
+      coordinates:
+        brand: ChemicalRomance
+        primary_name: 甜心娃娃机
+        secondary_name: Sweet Heart UFO Catcher
+        type: 背带JSK
+        color: 红
+      files:
+        - 07_bust.jpg
+        - 07_full_body.jpg
