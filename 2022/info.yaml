@@ -217,3 +217,13 @@
       files:
         - 07_bust.jpg
         - 07_full_body.jpg
+    - date: 8
+      coordinates:
+        brand: 八月乙女
+        primary_name: 莓喵雪顶2.0
+        secondary_name: Fancy Strawberry Ice Cream Cat
+        type: JSK
+        color: 黑
+      files:
+        - 08_bust.jpg
+        - 08_full_body.jpg
