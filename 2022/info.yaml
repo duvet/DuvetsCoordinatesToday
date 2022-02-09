@@ -227,3 +227,13 @@
       files:
         - 08_bust.jpg
         - 08_full_body.jpg
+    - date: 9
+      coordinates:
+        brand: RS
+        primary_name: 爱丽丝
+        secondary_name: Alice
+        type: JSK
+        color: 黑
+      files:
+        - 09_bust.jpg
+        - 09_full_body.jpg
