@@ -237,3 +237,13 @@
       files:
         - 09_bust.jpg
         - 09_full_body.jpg
+    - date: 10
+      coordinates:
+        brand: AH
+        primary_name: 云宝
+        secondary_name: Rainbow
+        type: OP
+        color: 黑
+      files:
+        - 10_bust.jpg
+        - 10_full_body.jpg
