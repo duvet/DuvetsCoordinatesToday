@@ -247,3 +247,14 @@
       files:
         - 10_bust.jpg
         - 10_full_body.jpg
+    - date: 11
+      coordinates:
+        brand: AP
+        primary_name: 上海豆
+        secondary_name: Shanghai Doll
+        type: OP
+        color: 黑
+        color_2: 粉
+      files:
+        - 11_bust.jpg
+        - 11_full_body.jpg
