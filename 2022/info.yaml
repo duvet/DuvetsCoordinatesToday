@@ -268,3 +268,14 @@
       files:
         - 14_bust.jpg
         - 14_full_body.jpg
+    - date: 15
+      coordinates:
+        brand: AH
+        primary_name: 云宝
+        secondary_name: Rainbow
+        type: SK
+        color: 粉
+        color_2: Sax
+      files:
+        - 15_bust.jpg
+        - 15_full_body.jpg
