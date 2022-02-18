@@ -299,4 +299,13 @@
       files:
         - 17_bust.jpg
         - 17_full_body.jpg
+    - date: 18
+      coordinates:
+        brand: RS
+        primary_name: 未命名样衣
+        secondary_name: Unnamed Prototype
+        type: JSK
+      files:
+        - 18_bust.jpg
+        - 18_full_body.jpg
 
