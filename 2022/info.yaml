@@ -317,4 +317,13 @@
       files:
         - 21_bust.jpg
         - 21_full_body.jpg
-
+    - date: 22
+      coordinates:
+        brand: AP
+        primary_name: Fantastic Princess
+        type: JSK
+        color: 粉
+        color_2: 白
+      files:
+        - 22_bust.jpg
+        - 22_full_body.jpg
