@@ -327,3 +327,16 @@
       files:
         - 22_bust.jpg
         - 22_full_body.jpg
+    - date: 23
+      coordinates:
+        brand: AP
+        primary_name: 渐变流星
+        secondary_name: Sugar Sky
+        type: JSK
+        color: 粉
+        color_2: 紫
+      files:
+        - 23_bust.jpg
+        - 23_full_body.jpg
+        - 23_close_up.jpg
+        - 23_still.jpg
