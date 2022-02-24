@@ -340,3 +340,16 @@
         - 23_full_body.jpg
         - 23_close_up.jpg
         - 23_still.jpg
+    - date: 24
+      coordinates:
+        brand: AP
+        primary_name: 玫瑰故事
+        secondary_name: True Rose Story
+        type: JSK
+        color: 红
+      files:
+        - 24_bust.jpg
+        - 24_full_body.jpg
+        - 24_close_up.jpg
+        - 24_still.jpg
+
