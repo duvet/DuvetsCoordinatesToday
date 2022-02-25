@@ -352,4 +352,13 @@
         - 24_full_body.jpg
         - 24_close_up.jpg
         - 24_still.jpg
+    - date: 25
+      coordinates:
+        brand: 熠先生的蒸汽大陆
+        primary_name: 东方异闻录
+        secondary_name: Oriental Anecdotes
+        type: Set
+      files:
+        - 25_bust.jpg
+        - 25_full_body.jpg
 
