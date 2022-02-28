@@ -361,4 +361,16 @@
       files:
         - 25_bust.jpg
         - 25_full_body.jpg
+    - date: 28
+      coordinates:
+        brand: Baby
+        primary_name: 朱丽叶
+        secondary_name: Juliet's Romantic
+        type: JSK
+        color: 酒红
+      files:
+        - 28_bust.jpg
+        - 28_full_body.jpg
+        - 28_close_up.jpg
+        - 28_still.jpg
 
