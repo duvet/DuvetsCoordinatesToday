@@ -373,4 +373,17 @@
         - 28_full_body.jpg
         - 28_close_up.jpg
         - 28_still.jpg
-
+- month: 3
+  dates:
+    - date: 1
+      coordinates:
+        brand: Meta
+        primary_name: 斜蛋糕
+        secondary_name: Carnelina
+        type: JSK
+        color: 黑
+      files:
+        - 01_bust.jpg
+        - 01_full_body.jpg
+        - 01_close_up.jpg
+        - 01_still.jpg
