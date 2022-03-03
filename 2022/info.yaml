@@ -393,7 +393,17 @@
         primary_name: 长款不规则
         secondary_name: Melias
         type: JSK
-        color: 自
+        color: 紫
       files:
         - 02_bust.jpg
         - 02_full_body.jpg
+    - date: 3
+      coordinates:
+        brand: Baby
+        primary_name: 天使祝福
+        secondary_name: Blessing from Michael
+        type: JSK
+        color: 黑
+      files:
+        - 03_bust.jpg
+        - 03_full_body.jpg
