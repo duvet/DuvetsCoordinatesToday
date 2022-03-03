@@ -387,3 +387,13 @@
         - 01_full_body.jpg
         - 01_close_up.jpg
         - 01_still.jpg
+    - date: 2
+      coordinates:
+        brand: BOZ
+        primary_name: 长款不规则
+        secondary_name: Melias
+        type: JSK
+        color: 自
+      files:
+        - 02_bust.jpg
+        - 02_full_body.jpg
