@@ -407,3 +407,11 @@
       files:
         - 03_bust.jpg
         - 03_full_body.jpg
+    - date: 4
+      coordinates:
+        brand: CreamyCutiePie
+        primary_name: Kitty
+        type: SK Set
+      files:
+        - 04_bust.jpg
+        - 04_full_body.jpg
