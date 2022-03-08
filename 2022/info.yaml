@@ -427,3 +427,13 @@
         - 07_full_body.jpg
         - 07_close_up.jpg
         - 07_still.jpg
+    - date: 8
+      coordinates:
+        brand: Baby
+        primary_name: 极光2.0
+        secondary_name: Valse des Fleurs
+        type: OP
+        color: 紫
+      files:
+        - 08_bust.jpg
+        - 08_full_body.jpg
