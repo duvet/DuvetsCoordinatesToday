@@ -437,3 +437,13 @@
       files:
         - 08_bust.jpg
         - 08_full_body.jpg
+    - date: 9
+      coordinates:
+        brand: Baby
+        primary_name: 拇指姑娘
+        secondary_name: Princess Maia
+        type: OP
+        color: 粉
+      files:
+        - 09_bust.jpg
+        - 09_full_body.jpg
