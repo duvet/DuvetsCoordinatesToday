@@ -447,3 +447,13 @@
       files:
         - 09_bust.jpg
         - 09_full_body.jpg
+    - date: 10
+      coordinates:
+        brand: Baby
+        primary_name: 珍珠公主
+        secondary_name: Pearl Princess
+        type: OP
+        color: 粉
+      files:
+        - 10_bust.jpg
+        - 10_full_body.jpg
