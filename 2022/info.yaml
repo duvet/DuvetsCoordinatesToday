@@ -457,3 +457,13 @@
       files:
         - 10_bust.jpg
         - 10_full_body.jpg
+    - date: 11
+      coordinates:
+        brand: Baby
+        primary_name: 天使的微笑
+        secondary_name: Trinity ~Faint Smile of the Angel~
+        type: JSK
+        color: 粉
+      files:
+        - 11_bust.jpg
+        - 11_full_body.jpg
