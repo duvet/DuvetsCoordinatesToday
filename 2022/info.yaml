@@ -467,3 +467,15 @@
       files:
         - 11_bust.jpg
         - 11_full_body.jpg
+    - date: 14
+      coordinates:
+        brand: AP
+        primary_name: 19草莓
+        secondary_name: Strawberry Doll
+        type_prefix: SP
+        type: JSK
+      files:
+        - 14_bust.jpg
+        - 14_full_body.jpg
+        - 14_close_up.jpg
+        - 14_still.jpg
