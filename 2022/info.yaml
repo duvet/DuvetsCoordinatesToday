@@ -479,3 +479,15 @@
         - 14_full_body.jpg
         - 14_close_up.jpg
         - 14_still.jpg
+    - date: 15
+      coordinates:
+        brand: AP
+        primary_name: 21草莓
+        secondary_name: Little Bunny Strawberry
+        type: OP
+        color: 白
+      files:
+        - 15_bust.jpg
+        - 15_full_body.jpg
+        - 15_close_up.jpg
+        - 15_still.jpg
