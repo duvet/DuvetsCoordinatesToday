@@ -491,3 +491,16 @@
         - 15_full_body.jpg
         - 15_close_up.jpg
         - 15_still.jpg
+    - date: 17
+      coordinates:
+        brand: AP
+        primary_name: 21草莓
+        secondary_name: Little Bunny Strawberry
+        type: JSK
+        color: 粉
+      files:
+        - 17_bust.jpg
+        - 17_full_body.jpg
+        - 17_close_up.jpg
+        - 17_still.jpg
+
