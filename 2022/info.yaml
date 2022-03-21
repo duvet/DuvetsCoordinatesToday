@@ -515,3 +515,12 @@
         - 18_full_body.jpg
         - 18_close_up.jpg
         - 18_still.jpg
+    - date: 21
+      coordinates:
+        brand: ANP
+        primary_name: 中村十字
+        secondary_name: Ginger Doll
+        type: Dress Set
+      files:
+        - 21_bust.jpg
+        - 21_full_body.jpg
