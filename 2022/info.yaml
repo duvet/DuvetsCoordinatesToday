@@ -524,3 +524,14 @@
       files:
         - 21_bust.jpg
         - 21_full_body.jpg
+    - date: 22
+      coordinates:
+        brand: AP
+        primary_name: Merry Making Party
+        type: JSK
+        color: 黑
+      files:
+        - 22_bust.jpg
+        - 22_full_body.jpg
+        - 22_close_up.jpg
+        - 22_still.jpg
