@@ -545,3 +545,13 @@
       files:
         - 23_bust.jpg
         - 23_full_body.jpg
+    - date: 24
+      coordinates:
+        brand: IW
+        primary_name: 天文时计
+        secondary_name: Astronomical Clock
+        type: JSK
+        color: 绀
+      files:
+        - 24_bust.jpg
+        - 24_full_body.jpg
