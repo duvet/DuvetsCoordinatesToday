@@ -555,3 +555,13 @@
       files:
         - 24_bust.jpg
         - 24_full_body.jpg
+    - date: 25
+      coordinates:
+        brand: AP
+        primary_name: 星星熊
+        secondary_name: Holy Milky Bear
+        type: JSK
+        color: 绀
+      files:
+        - 25_bust.jpg
+        - 25_full_body.jpg
