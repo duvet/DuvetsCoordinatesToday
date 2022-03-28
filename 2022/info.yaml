@@ -565,3 +565,12 @@
       files:
         - 25_bust.jpg
         - 25_full_body.jpg
+    - date: 28
+      coordinates:
+        brand: RS
+        primary_name: 学院格子裙
+        secondary_name: RS Campus, Spring&Autumn 11'
+        type: SK
+      files:
+        - 28_bust.jpg
+        - 28_full_body.jpg
