@@ -574,3 +574,15 @@
       files:
         - 28_bust.jpg
         - 28_full_body.jpg
+    - date: 29
+      coordinates:
+        brand: RS
+        primary_name: 焦糖牛奶威化
+        secondary_name: Caramel Milk Waffle
+        type: SK
+        color: 深咖啡
+      files:
+        - 29_bust.jpg
+        - 29_full_body.jpg
+        - 29_close_up.jpg
+        - 29_still.jpg
