@@ -586,3 +586,14 @@
         - 29_full_body.jpg
         - 29_close_up.jpg
         - 29_still.jpg
+    - date: 30
+      coordinates:
+        brand: AH
+        primary_name: 云宝
+        secondary_name: Rainbow
+        type: SK
+        color: 粉
+        color_2: Sax
+      files:
+        - 30_bust.jpg
+        - 30_full_body.jpg
