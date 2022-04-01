@@ -606,3 +606,15 @@
       files:
         - 31_bust.jpg
         - 31_full_body.jpg
+- month: 4
+  dates:
+    - date: 1
+      coordinates:
+        brand: AP
+        primary_name: 12福袋
+        secondary_name: A La Carte Tea Time
+        type: 背带SK
+        color: 白
+      files:
+        - 01_bust.jpg
+        - 01_full_body.jpg
