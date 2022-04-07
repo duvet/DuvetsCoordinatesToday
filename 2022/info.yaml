@@ -630,3 +630,13 @@
         - 02_full_body.jpg
         - 02_close_up.jpg
         - 02_still.jpg
+    - date: 7
+      coordinates:
+        brand: AP
+        primary_name: 少女贴纸
+        secondary_name: Girly Sticker
+        type: JSK
+        color: 粉
+      files:
+        - 07_bust.jpg
+        - 07_full_body.jpg
