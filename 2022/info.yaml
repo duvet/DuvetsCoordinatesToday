@@ -640,3 +640,13 @@
       files:
         - 07_bust.jpg
         - 07_full_body.jpg
+    - date: 8
+      coordinates:
+        brand: AP
+        primary_name: 霓虹星星
+        secondary_name: Neon Star Diner
+        type: JSK
+        color: 粉
+      files:
+        - 08_bust.jpg
+        - 08_full_body.jpg
