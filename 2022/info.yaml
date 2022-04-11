@@ -650,3 +650,13 @@
       files:
         - 08_bust.jpg
         - 08_full_body.jpg
+    - date: 11
+      coordinates:
+        brand: AP
+        primary_name: 22草莓
+        secondary_name: Fresh Strawberry Diner
+        type: OP
+        color: 粉
+      files:
+        - 11_bust.jpg
+        - 11_full_body.jpg
