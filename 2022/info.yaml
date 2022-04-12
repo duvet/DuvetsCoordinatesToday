@@ -660,3 +660,12 @@
       files:
         - 11_bust.jpg
         - 11_full_body.jpg
+    - date: 12
+      coordinates:
+        brand: AP
+        primary_name: Romantic Fleur
+        type: JSK
+        color: 粉
+      files:
+        - 12_bust.jpg
+        - 12_full_body.jpg
