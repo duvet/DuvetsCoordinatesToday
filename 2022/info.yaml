@@ -679,3 +679,16 @@
       files:
         - 13_bust.jpg
         - 13_full_body.jpg
+    - date: 14
+      coordinates:
+        brand: AP
+        primary_name: 雪花
+        secondary_name: Jewelry Snow
+        type_prefix: SP
+        type: JSK
+        color: 粉
+      files:
+        - 14_bust.jpg
+        - 14_full_body.jpg
+        - 14_close_up.jpg
+        - 14_still.jpg
