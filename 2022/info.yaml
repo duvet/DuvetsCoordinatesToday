@@ -703,3 +703,12 @@
         - 15_full_body.jpg
         - 15_close_up.jpg
         - 15_still.jpg
+    - date: 18
+      coordinates:
+        brand: AP
+        primary_name: 上海娃娃
+        secondary_name: Shanghai Doll
+        type: Dress
+      files:
+        - 18_bust.jpg
+        - 18_full_body.jpg
