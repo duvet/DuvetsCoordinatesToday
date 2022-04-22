@@ -734,3 +734,16 @@
         - 20_full_body.jpg
         - 20_close_up.jpg
         - 20_still.jpg
+    - date: 21
+      coordinates:
+        brand: AP
+        primary_name: 上海娃娃
+        secondary_name: Shanghai Doll
+        type: OP
+        color: 黑
+        color2: 粉
+      files:
+        - 21_bust.jpg
+        - 21_full_body.jpg
+        - 21_close_up.jpg
+        - 21_still.jpg
