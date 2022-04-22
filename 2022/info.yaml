@@ -747,3 +747,12 @@
         - 21_full_body.jpg
         - 21_close_up.jpg
         - 21_still.jpg
+    - date: 22
+      coordinates:
+        brand: 懿菲
+        type: 旗袍
+      files:
+        - 22_bust.jpg
+        - 22_full_body.jpg
+        - 22_close_up.jpg
+        - 22_still.jpg
