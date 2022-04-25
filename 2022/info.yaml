@@ -768,3 +768,13 @@
         - 24_full_body.jpg
         - 24_close_up.jpg
         - 24_still.jpg
+    - date: 25
+      coordinates:
+        brand: RS
+        primary_name: 朱雀
+        type: OP
+      files:
+        - 25_bust.jpg
+        - 25_full_body.jpg
+        - 25_close_up.jpg
+        - 25_still.jpg
