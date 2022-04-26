@@ -778,3 +778,13 @@
         - 25_full_body.jpg
         - 25_close_up.jpg
         - 25_still.jpg
+    - date: 26
+      coordinates:
+        brand: RS
+        primary_name: 青龙
+        type: OP
+      files:
+        - 26_bust.jpg
+        - 26_full_body.jpg
+        - 26_close_up.jpg
+        - 26_still.jpg
