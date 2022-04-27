@@ -788,3 +788,11 @@
         - 26_full_body.jpg
         - 26_close_up.jpg
         - 26_still.jpg
+    - date: 27
+      coordinates:
+        brand: RS
+        primary_name: 白虎
+        type: OP
+      files:
+        - 27_bust.jpg
+        - 27_full_body.jpg
