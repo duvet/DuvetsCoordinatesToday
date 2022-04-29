@@ -807,3 +807,12 @@
         - 28_full_body.jpg
         - 28_close_up.jpg
         - 28_still.jpg
+    - date: 29
+      coordinates:
+        brand: 懿菲
+        primary_name: 旗袍
+      files:
+        - 29_bust.jpg
+        - 29_full_body.jpg
+        - 29_close_up.jpg
+        - 29_still.jpg
