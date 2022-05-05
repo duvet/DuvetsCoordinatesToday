@@ -816,3 +816,16 @@
         - 29_full_body.jpg
         - 29_close_up.jpg
         - 29_still.jpg
+- month: 5
+  dates:
+    - date: 5
+      coordinates:
+        brand: RS
+        primary_name: 玄武
+        type_prefix: SP
+        type: OP
+      files:
+        - 05_bust.jpg
+        - 05_full_body.jpg
+        - 05_close_up.jpg
+        - 05_still.jpg
