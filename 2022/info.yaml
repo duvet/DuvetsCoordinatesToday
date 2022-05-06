@@ -829,3 +829,14 @@
         - 05_full_body.jpg
         - 05_close_up.jpg
         - 05_still.jpg
+    - date: 6
+      coordinates:
+        brand: RS
+        primary_name: 凤羽
+        color: 红
+        type: OP
+      files:
+        - 06_bust.jpg
+        - 06_full_body.jpg
+        - 06_close_up.jpg
+        - 06_still.jpg
