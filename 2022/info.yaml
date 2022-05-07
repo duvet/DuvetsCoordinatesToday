@@ -840,3 +840,12 @@
         - 06_full_body.jpg
         - 06_close_up.jpg
         - 06_still.jpg
+    - date: 7
+      coordinates:
+        brand: 懿菲
+        primary_name: 旗袍
+      files:
+        - 07_bust.jpg
+        - 07_full_body.jpg
+        - 07_close_up.jpg
+        - 07_still.jpg
