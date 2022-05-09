@@ -741,7 +741,7 @@
         secondary_name: Shanghai Doll
         type: OP
         color: 黑
-        color2: 粉
+        color_2: 粉
       files:
         - 21_bust.jpg
         - 21_full_body.jpg
@@ -762,7 +762,7 @@
         primary_name: 玄武
         type: OP
         color: 黑
-        color2: 绀
+        color_2: 绀
       files:
         - 24_bust.jpg
         - 24_full_body.jpg
@@ -849,3 +849,15 @@
         - 07_full_body.jpg
         - 07_close_up.jpg
         - 07_still.jpg
+    - date: 9
+      coordinates:
+        brand: Baby
+        primary_name: Sweet Best Wishes
+        color: 黑
+        color_2: 黑
+        type: JSK
+      files:
+        - 09_bust.jpg
+        - 09_full_body.jpg
+        - 09_close_up.jpg
+        - 09_still.jpg
