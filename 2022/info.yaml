@@ -871,3 +871,13 @@
       files:
         - 10_bust.jpg
         - 10_full_body.jpg
+    - date: 11
+      coordinates:
+        brand: Baby
+        primary_name: Sweet Best Wishes
+        color: Sax
+        color_2: 白
+        type: JSK
+      files:
+        - 11_bust.jpg
+        - 11_full_body.jpg
