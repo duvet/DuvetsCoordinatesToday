@@ -881,3 +881,13 @@
       files:
         - 11_bust.jpg
         - 11_full_body.jpg
+    - date: 12
+      coordinates:
+        brand: Baby
+        primary_name: Sweet Best Wishes
+        color: 粉
+        color_2: 白
+        type: JSK
+      files:
+        - 12_bust.jpg
+        - 12_full_body.jpg
