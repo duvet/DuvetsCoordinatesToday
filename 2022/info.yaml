@@ -903,3 +903,15 @@
         - 16_full_body.jpg
         - 16_close_up.jpg
         - 16_still.jpg
+    - date: 19
+      coordinates:
+        brand: RS
+        primary_name: 独角兽花园
+        secondary_name: Unicorn Garden
+        color: Sax
+        type: OP
+      files:
+        - 19_bust.jpg
+        - 19_full_body.jpg
+        - 19_close_up.jpg
+        - 19_still.jpg
