@@ -915,3 +915,15 @@
         - 19_full_body.jpg
         - 19_close_up.jpg
         - 19_still.jpg
+    - date: 20
+      coordinates:
+        brand: RS
+        primary_name: 梦中青鸟
+        secondary_name: Bluebird
+        color: 绀
+        type: OP
+      files:
+        - 20_bust.jpg
+        - 20_full_body.jpg
+        - 20_close_up.jpg
+        - 20_still.jpg
