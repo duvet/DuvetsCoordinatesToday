@@ -927,3 +927,17 @@
         - 20_full_body.jpg
         - 20_close_up.jpg
         - 20_still.jpg
+- month: 6
+  dates:
+    - date: 6
+      coordinates:
+        brand: AP
+        primary_name: 22草莓
+        secondary_name: Fresh Strawberry Diner
+        type: OP
+        color: 粉
+      files:
+        - 06_bust.jpg
+        - 06_full_body.jpg
+        - 06_close_up.jpg
+        - 06_still.jpg
