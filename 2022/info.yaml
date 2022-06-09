@@ -965,3 +965,15 @@
         - 08_full_body.jpg
         - 08_close_up.jpg
         - 08_still.jpg
+    - date: 9
+      coordinates:
+        brand: AP
+        primary_name: 15草莓
+        secondary_name: Merry Berry Princess
+        type: JSK
+        color: 红
+      files:
+        - 09_bust.jpg
+        - 09_full_body.jpg
+        - 09_close_up.jpg
+        - 09_still.jpg
