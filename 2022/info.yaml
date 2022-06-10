@@ -977,3 +977,15 @@
         - 09_full_body.jpg
         - 09_close_up.jpg
         - 09_still.jpg
+    - date: 10
+      coordinates:
+        brand: AP
+        primary_name: 13草莓
+        secondary_name: Freshly Picked Strawberries
+        type: OP
+        color: 红
+      files:
+        - 10_bust.jpg
+        - 10_full_body.jpg
+        - 10_close_up.jpg
+        - 10_still.jpg
