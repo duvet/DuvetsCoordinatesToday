@@ -989,3 +989,15 @@
         - 10_full_body.jpg
         - 10_close_up.jpg
         - 10_still.jpg
+    - date: 13
+      coordinates:
+        brand: SilentMars
+        primary_name: 白夜航行
+        secondary_name: White Night Voyage
+        type: OP
+        color: 白
+      files:
+        - 13_bust.jpg
+        - 13_full_body.jpg
+        - 13_close_up.jpg
+        - 13_still.jpg
