@@ -1001,3 +1001,14 @@
         - 13_full_body.jpg
         - 13_close_up.jpg
         - 13_still.jpg
+    - date: 14
+      coordinates:
+        brand: AP
+        primary_name: Sherbet Marine
+        type: SK
+        color: 绀
+      files:
+        - 14_bust.jpg
+        - 14_full_body.jpg
+        - 14_close_up.jpg
+        - 14_still.jpg
