@@ -1024,3 +1024,15 @@
         - 15_full_body.jpg
         - 15_close_up.jpg
         - 15_still.jpg
+    - date: 16
+      coordinates:
+        brand: AP
+        primary_name: 复古海军
+        secondary_name: Vintage Marine
+        type: JSK
+        color: 生成
+      files:
+        - 16_bust.jpg
+        - 16_full_body.jpg
+        - 16_close_up.jpg
+        - 16_still.jpg
