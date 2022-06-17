@@ -1036,3 +1036,13 @@
         - 16_full_body.jpg
         - 16_close_up.jpg
         - 16_still.jpg
+    - date: 17
+      coordinates:
+        brand: CONOMi
+        primary_name: 水手服
+        type: Set
+      files:
+        - 17_bust.jpg
+        - 17_full_body.jpg
+        - 17_close_up.jpg
+        - 17_still.jpg
