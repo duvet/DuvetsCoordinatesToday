@@ -1046,3 +1046,13 @@
         - 17_full_body.jpg
         - 17_close_up.jpg
         - 17_still.jpg
+    - date: 20
+      coordinates:
+        brand: AH
+        primary_name: 童话故事
+        secondary_name: Fairy Tale
+        type: JSK
+        color: 绀
+      files:
+        - 20_bust.jpg
+        - 20_full_body.jpg
