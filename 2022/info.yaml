@@ -1056,3 +1056,13 @@
       files:
         - 20_bust.jpg
         - 20_full_body.jpg
+    - date: 21
+      coordinates:
+        brand: AH
+        primary_name: 童话故事
+        secondary_name: Fairy Tale
+        type: JSK
+        color: 生成
+      files:
+        - 21_bust.jpg
+        - 21_full_body.jpg
