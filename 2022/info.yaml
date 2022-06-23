@@ -1078,3 +1078,16 @@
         - 22_full_body.jpg
         - 22_close_up.jpg
         - 22_still.jpg
+    - date: 23
+      coordinates:
+        brand: AH
+        primary_name: 童话故事
+        secondary_name: Fairy Tale
+        type: OP
+        color: 生成
+      files:
+        - 23_bust.jpg
+        - 23_full_body.jpg
+        - 23_close_up.jpg
+        - 23_still.jpg
+
