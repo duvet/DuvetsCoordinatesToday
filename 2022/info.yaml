@@ -1090,4 +1090,11 @@
         - 23_full_body.jpg
         - 23_close_up.jpg
         - 23_still.jpg
-
+    - date: 24
+      coordinates:
+        brand: CONOMi
+        primary_name: 水手服
+        type: Set
+      files:
+        - 24_bust.jpg
+        - 24_full_body.jpg
