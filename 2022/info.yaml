@@ -1098,3 +1098,15 @@
       files:
         - 24_bust.jpg
         - 24_full_body.jpg
+    - date: 27
+      coordinates:
+        brand: RS
+        primary_name: 梦中青鸟
+        secondary_name: Bluebird
+        type: JSK
+        color: 黑
+      files:
+        - 27_bust.jpg
+        - 27_full_body.jpg
+        - 27_close_up.jpg
+        - 27_still.jpg
