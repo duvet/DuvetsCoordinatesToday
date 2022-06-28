@@ -1110,3 +1110,13 @@
         - 27_full_body.jpg
         - 27_close_up.jpg
         - 27_still.jpg
+    - date: 28
+      coordinates:
+        brand: RS
+        primary_name: 猫咪唱诗班
+        secondary_name: Cats Choir
+        type: OP
+        color: 黑
+      files:
+        - 28_bust.jpg
+        - 28_full_body.jpg
