@@ -1130,3 +1130,13 @@
       files:
         - 29_bust.jpg
         - 29_full_body.jpg
+    - date: 30
+      coordinates:
+        brand: SilentMars
+        primary_name: 白夜航行
+        secondary_name: White Night Voyage
+        type: OP
+        color: 黑
+      files:
+        - 30_bust.jpg
+        - 30_full_body.jpg
