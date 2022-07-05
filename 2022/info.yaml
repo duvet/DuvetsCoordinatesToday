@@ -1152,3 +1152,15 @@
       files:
         - 01_bust.jpg
         - 01_full_body.jpg
+    - date: 5
+      coordinates:
+        brand: AP
+        primary_name: 海豚
+        secondary_name: Aquarium Carnival
+        type: OP
+        color: Sax
+      files:
+        - 05_bust.jpg
+        - 05_full_body.jpg
+        - 05_close_up.jpg
+        - 05_still.jpg
