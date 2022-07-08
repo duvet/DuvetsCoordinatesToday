@@ -1164,3 +1164,15 @@
         - 05_full_body.jpg
         - 05_close_up.jpg
         - 05_still.jpg
+    - date: 6
+      coordinates:
+        brand: RS
+        primary_name: 海妖的庭院
+        secondary_name: Garden of the Sirens
+        type: JSK
+        color: Sax
+      files:
+        - 06_bust.jpg
+        - 06_full_body.jpg
+        - 06_close_up.jpg
+        - 06_still.jpg
