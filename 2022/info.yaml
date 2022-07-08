@@ -1176,3 +1176,15 @@
         - 06_full_body.jpg
         - 06_close_up.jpg
         - 06_still.jpg
+    - date: 7
+      coordinates:
+        brand: AP
+        primary_name: 砂糖马
+        secondary_name: Sugary Carnival
+        type: JSK
+        color: Sax
+      files:
+        - 07_bust.jpg
+        - 07_full_body.jpg
+        - 07_close_up.jpg
+        - 07_still.jpg
