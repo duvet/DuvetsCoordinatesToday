@@ -1200,3 +1200,17 @@
         - 08_full_body.jpg
         - 08_close_up.jpg
         - 08_still.jpg
+    - date: 12
+      coordinates:
+        brand: AH
+        primary_name: 天使&小恶魔
+        secondary_name: Angel&Devil
+        type_prefix: 小恶魔
+        type: JSK
+        color: 黑
+        color_2: 红
+      files:
+        - 12_bust.jpg
+        - 12_full_body.jpg
+        - 12_close_up.jpg
+        - 12_still.jpg
