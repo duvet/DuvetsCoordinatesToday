@@ -1214,3 +1214,14 @@
         - 12_full_body.jpg
         - 12_close_up.jpg
         - 12_still.jpg
+    - date: 13
+      coordinates:
+        brand: ANP
+        primary_name: 中村奶茶
+        secondary_name: Milktea Doll
+        type: Dress
+      files:
+        - 13_bust.jpg
+        - 13_full_body.jpg
+        - 13_close_up.jpg
+        - 13_still.jpg
